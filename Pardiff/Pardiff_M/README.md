@@ -4,7 +4,7 @@ Official PyTorch implementation of:
 
 > **PARDiff: An Order-Agnostic Autoregressive Diffusion Model for Graph Generation**  
 > Usman Ahmad Usmani, Arunava Roy, Junzo Watada  
-> *NeurIPS 2025
+>
 
 ---
 
